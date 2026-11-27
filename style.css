@@ -615,12 +615,6 @@ h1 .line:nth-child(2) span {
     color: rgba(255, 255, 255, 0.7);
 }
 
-.skill-meter {
-    display: flex;
-    align-items: center;
-    gap: 12px;
-}
-
 .meter-line {
     flex: 1;
     height: 8px;
@@ -647,9 +641,9 @@ h1 .line:nth-child(2) span {
 
 .html-icon { color: #FF7849; }
 .css-icon { color: #6CA0FF; }
-.js-icon { color: #FFD43B; }
-.mobile-icon { color: #2DD4CF; }
-.flex-icon { color: var(--marigold); }
+.window-icon { color: #FFD43B; }
+.canva-icon { color: #2DD4CF; }
+.c-icon { color: var(--marigold); }
 .github-icon { color: #FFFFFF; }
 
 .html-fill { --w: 92%; }
